@@ -1,4 +1,4 @@
-# Speech-to-Text-Conversion
+# Speech to Text Conversion
 
 Libraries required:<br>
 os<br>
