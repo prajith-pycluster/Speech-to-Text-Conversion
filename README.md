@@ -1,5 +1,6 @@
 # Speech-to-Text-Conversion
-Linraries required:<br>
+
+Libraries required:<br>
 os<br>
 wave<br>
 threading<br>
